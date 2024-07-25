@@ -1,44 +1,27 @@
-<h2 align="left">Hello, I'm Yevhenii Hliebov, Full Stack Developer (Node.js, React.js)</h2>
+# Hi there! 👋
 
-## My development stack
+### I'm **Yevhenii Hliebov**, a Flutter developer, full stack developer, and co-founder of the startup **ReMnemo**.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="34" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="34" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="34" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=sass" height="34" alt="sass logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="34" alt="nestjs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="34" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="34" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=gulp" height="34" alt="gulp logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="34" alt="docker logo"  />
-</div>
+## 🚀 Skills
 
-### Stats
+### Flutter
+- **Proficient in Dart programming language**
+- Understanding of **SOLID, KISS, DRY** principles
+- Knowledgeable in **REST** client-server architecture
+- Experience with state management patterns such as **BloC, Provider, etc.**
+- Ability to work with databases (SQL queries, **SQLite, PostgreSQL, MySQL, MongoDB**)
+
+### Full Stack Development
+- Frontend development experience using **React**
+- Backend development knowledge with **Nest.js**
+- Understanding of **API** concepts and practical experience in API development
+- Database proficiency in web development contexts
+- Experience integrating frontend and backend through **REST** or **GraphQL**
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yevhenii--hliebov-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yevhenii-hliebov)
+
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yevheniy-hliebov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
