@@ -11,13 +11,6 @@
 - Experience with state management patterns such as **BloC, Provider, etc.**
 - Ability to work with databases (SQL queries, **SQLite, PostgreSQL, MySQL, MongoDB**)
 
-### Full Stack Development
-- Frontend development experience using **React**
-- Backend development knowledge with **Nest.js**
-- Understanding of **API** concepts and practical experience in API development
-- Database proficiency in web development contexts
-- Experience integrating frontend and backend through **REST** or **GraphQL**
-
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yevhenii--hliebov-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yevhenii-hliebov)
 
